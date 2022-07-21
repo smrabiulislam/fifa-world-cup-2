@@ -132,6 +132,12 @@ Match section
 
 }
 
+.btn1 a {
+    text-decoration: none;
+    color: rgb(252, 252, 252);
+
+}
+
 .btn2 {
     padding: 15px 25px;
     background-color: #ffffff;
@@ -150,7 +156,7 @@ Match section
 
 .btn3 a {
     text-decoration: none;
-    color: #ffff;
+    color: rgb(0, 0, 0);
 
 }
 
